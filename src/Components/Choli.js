@@ -4,13 +4,14 @@ import Header from "./Header";
 import Footer from "./Footer";
 import SampleCard from "./SampleCard";
 import pic1 from "../Images/Cards/card2.jpg"
-// import pic2 from "../Images/Cards/card3.jpg"
+
 
 
 
 
 
 export default function Choli() {
+
   return (
     <div>
         <Header/>
